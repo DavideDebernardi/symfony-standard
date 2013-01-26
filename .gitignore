@@ -5,4 +5,5 @@ app/logs/*
 build/
 vendor
 bin
+src/*
 composer.phar
